@@ -1,2 +1,2 @@
 # Rock-paper-scissors
-Odin Project - Create Rock Papyer Scissors browser game
+Odin Project - Create Rock Paper Scissors browser game
